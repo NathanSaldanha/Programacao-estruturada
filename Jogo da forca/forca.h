@@ -1,0 +1,14 @@
+int acertou();
+void abertura();
+void chuta();
+int chutou(char letra);
+void desenhaforca();
+void escolhepalavra();
+int enforcou();
+void adicionarPalavra();
+int numChuteserrados();
+int letraExiste(char letra);
+int palavraExiste(char * novaPalavra);
+char letraValida(char chute);
+void dificuldade();
+void ranking();
